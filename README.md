@@ -15,6 +15,7 @@ DALL-E 图像生成应用是一个使用 Tkinter 库构建的 Python 应用程�
 ![屏幕截图 2024-01-10 153223](https://github.com/buwanyuanshen/DALLE-python/assets/144007759/00672c75-a7fe-4dac-b4db-906c3df01584)
 ![屏幕截图 2024-01-10 153051](https://github.com/buwanyuanshen/DALLE-python/assets/144007759/38e79f1a-acd0-4070-95f5-45a52f9611eb)
 ![屏幕截图 2024-01-10 162249](https://github.com/buwanyuanshen/DALLE-python/assets/144007759/9bf3724e-1297-45e8-8b47-d0fe3913cd85)
+![(O4DSU$ MT}FU7OS~JX2R99](https://github.com/buwanyuanshen/DALLE-python/assets/144007759/c69e10f2-4932-4b1f-a760-7a67fa3991cf)
 
   
 
@@ -49,14 +50,14 @@ DALL-E 图像生成应用是一个使用 Tkinter 库构建的 Python 应用程�
 ## 依赖项
 - Python 3.x
 - Tkinter
-- OpenAI 0.28.0
+- OpenAI==0.28.0
 - PIL（Pillow）
 - Requests
 
 ## 入门指南
 1. 克隆存储库。
 2. 使用 `pip install -r requirements.txt` 安装所需的依赖项。
-3. 使用 `python your_file_name.py` 运行应用程序。
+3. 使用 `python Dalle Paint.py` 运行应用程序。
 
 ## 许可证
 该项目根据 MIT 许可证进行许可 - 有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
